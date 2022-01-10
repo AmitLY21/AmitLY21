@@ -1,4 +1,4 @@
-### Hi there, I'm Amit Levy - Mobile Developer 👋 
+# Hi there, I'm Amit Levy - Mobile Developer 👋 
 
 ## I'm a Mobile Developer and Mamram Trainer !
 - 👨‍🎓 I'm a Software Engineering Student
