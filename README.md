@@ -1,6 +1,6 @@
 ### Hi there, I'm Amit Levy - Mobile Developer 👋 
 
-## I'm a Mobile Developer and Mamram Trainer !!
+## I'm a Mobile Developer and Mamram Trainer !
 - 👨‍🎓 I'm a Software Engineering Student
 - 🌱 I’m currently learning Android , iOS 🔥🔥🔥
 - 🥅 2022 Goals: To find a Job as a Junior Software Engineer
@@ -25,6 +25,6 @@
 <br />
 <br />
 
-[gmail]: amitly18@gmail.com
+[gmail]: https://mail.google.com/mail/?view=cm&source=mailto&to=[amitly18@gmail.com]
 [github]: https://github.com/AmitLY21
 [linkedin]: https://www.linkedin.com/in/amit-levy-a113511a4/
