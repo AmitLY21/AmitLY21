@@ -3,6 +3,7 @@
 ## I'm a Mobile Developer and Mamram Trainer !
 - 👨‍🎓 I'm a Software Engineering Student
 - 🌱 I’m currently learning Android , iOS 🔥🔥🔥
+- 🎮 Learning Game Development in Unity stay tuned! 😉😉
 - 🥅 2022 Goals: To find a Job as a Junior Software Engineer
 - ⚡ Fun fact: I danced breakdance for 8 years 🕺🏽🕺🏽
 
