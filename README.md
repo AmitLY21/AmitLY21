@@ -1,10 +1,10 @@
 # Hi there, I'm Amit Levy - Mobile Developer 👋 
 
-## I'm a Mobile Developer and Mamram Trainer !
+## I'm a Mobile Developer , Currently working as a Mobile/SDK Support Engineer!
 - 👨‍🎓 I'm a Software Engineering Student
 - 🌱 I’m currently learning Android , iOS 🔥🔥🔥
 - 🎮 Learning Game Development in Unity stay tuned! 😉😉
-- 🥅 2022 Goals: To find a Job as a Junior Software Engineer
+- 👨‍🏫 I was a Mamram Trainer!
 - ⚡ Fun fact: I danced breakdance for 8 years 🕺🏽🕺🏽
 
 ### Connect with me:
