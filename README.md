@@ -2,8 +2,7 @@
 
 ## I'm a Mobile Developer , Currently working as a Mobile/SDK Support Engineer!
 - 👨‍🎓 I'm a Software Engineering Student
-- 🌱 I’m currently learning Android , iOS 🔥🔥🔥
-- 🎮 Learning Game Development in Unity stay tuned! 😉😉
+- 🌱 I’m currently developing in Android & iOS 🔥🔥🔥
 - 👨‍🏫 I was a Mamram Trainer!
 - ⚡ Fun fact: I danced breakdance for 8 years 🕺🏽🕺🏽
 
