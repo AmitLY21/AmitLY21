@@ -2,9 +2,9 @@
 ## I'm a Mobile Developer , Currently working as a Mobile/SDK Support Engineer! <br>
 <ul>
   <li> 👨‍🎓 I'm a Software Engineering Student in the fourth year, always seeking to expand my knowledge and sharpen my skills. </li>
-  <li> 🌱 I enjoy developing applications for Android, iOS, and Flutter, and I'm always exploring new technologies in the mobile development space 🔥🔥🔥</li>
+  <li> 🌱 I enjoy developing applications for Android, iOS, and Flutter, and I'm always exploring new technologies in the mobile development space</li>
   <li> 👨‍🏫 I was a Mamram Trainer, where I had the opportunity to share my knowledge and teach others.</li>
-  <li> ⚡ Fun fact: I danced breakdance for 8 years 🕺🏽🕺🏽</li>
+  <li> ⚡ Fun fact: I danced breakdance for 8 years </li>
 </ul>
 
 
