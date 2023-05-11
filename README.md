@@ -1,33 +1,45 @@
-# Hi there, I'm Amit Levy - Mobile Developer 👋 
+# 💫 Hi there, I'm Amit Levy - Mobile Developer 👋
+## I'm a Mobile Developer , Currently working as a Mobile/SDK Support Engineer! <br>
+<ul>
+  <li> 👨‍🎓 I'm a Software Engineering Student in the fourth year, always seeking to expand my knowledge and sharpen my skills. </li>
+  <li> 🌱 I enjoy developing applications for Android, iOS, and Flutter, and I'm always exploring new technologies in the mobile development space 🔥🔥🔥</li>
+  <li> 👨‍🏫 I was a Mamram Trainer, where I had the opportunity to share my knowledge and teach others.</li>
+  <li> ⚡ Fun fact: I danced breakdance for 8 years 🕺🏽🕺🏽</li>
+</ul>
 
-## I'm a Mobile Developer , Currently working as a Mobile/SDK Support Engineer!
-- 👨‍🎓 I'm a Software Engineering Student
-- 🌱 I’m currently developing in Android, iOS and Flutter 🔥🔥🔥
-- 👨‍🏫 I was a Mamram Trainer!
-- ⚡ Fun fact: I danced breakdance for 8 years 🕺🏽🕺🏽
 
-### Connect with me:
+## 💻 Tech Stack:
+  <b>Programming Languages: </b></br>
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  </br><b>Mobile Development: </b></br>
+  ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
+  ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) 
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+  ![Xcode](https://img.shields.io/static/v1?style=for-the-badge&message=Xcode&color=147EFB&logo=Xcode&logoColor=FFFFFF&label=)
+  ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
+  </br><b>Familiar with: </b></br>
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-[<img align="left" alt="Amit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Amit | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amitly21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=amitly21&theme=dark&hide_border=false)<br/>
 
-<br />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=amitly21&icon=5&color=0)](https://visitcount.itsvg.in)
 
-### Languages and Tools:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/amit-levy-a113511a4/)
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:amitly18@gmail.com)
 
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][github]
-[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />][github]
-[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][github]
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][github]
-[<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][github]
-[<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/swift/swift.png" />][github]
-[<img align="left" alt="xCode" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/xcode/xcode.png" />][github]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][github]
-
-<br />
-<br />
-
-[gmail]: https://mail.google.com/mail/?view=cm&source=mailto&to=[amitly18@gmail.com]
-[github]: https://github.com/AmitLY21
-[linkedin]: https://www.linkedin.com/in/amit-levy-a113511a4/
